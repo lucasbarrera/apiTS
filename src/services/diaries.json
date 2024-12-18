@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2017-01-01",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Prety scary flight, I'm glad I'm alive"
+  },
+  {
+    "id": 2,
+    "date": "2018-05-15",
+    "weather": "sunny",
+    "visibility": "excellent",
+    "comment": "Smooth flight with beautiful views"
+  },
+  {
+    "id": 3,
+    "date": "2019-11-22",
+    "weather": "cloudy",
+    "visibility": "moderate",
+    "comment": "A bit bumpy, but overall not too bad"
+  },
+  {
+    "id": 4,
+    "date": "2020-07-04",
+    "weather": "stormy",
+    "visibility": "poor",
+    "comment": "Terrifying turbulence, a memorable experience"
+  },
+  {
+    "id": 5,
+    "date": "2021-12-10",
+    "weather": "foggy",
+    "visibility": "poor",
+    "comment": "Landed safely despite low visibility, grateful for the pilot's skills"
+  }
+]
